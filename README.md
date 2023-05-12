@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a web developer reconverted since 2020 and employed since 2021. I work mainly on PHP projects.  
+You will find here personal / school / tools / training projects, among others.  
+Perseverance, organization and fulfillment are my watchwords. 
+
 <!--
 **EulalieM/EulalieM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
