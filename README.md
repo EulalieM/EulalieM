@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a web developer reconverted since 2020 and employed since 2021. I work mainly on PHP projects.  
+I am a web developer reconverted since 2020 and employed since 2021. I work mainly on Symfony projects.  
 You will find here personal / school / tools / training projects, among others.  
 Perseverance, organization and fulfillment are my watchwords. 
 
